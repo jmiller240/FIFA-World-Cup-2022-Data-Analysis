@@ -1,6 +1,6 @@
 # MAT 311-Data Science Final Project
 
-This repo contains R code, data, visuals, and presentation slides for my MAT311 Data Science course (December 2022, Senior Year).
+This repo contains R code, data, visuals, and presentation slides for my MAT311 Data Science course (December 2022, Senior Year). 
   
    
 Question:
